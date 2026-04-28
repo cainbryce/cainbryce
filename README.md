@@ -26,9 +26,28 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 ```txt
 From: 28 March 2026 - To: 27 April 2026
 
-Total Time: 0 secs
+Total Time: 42 hrs 31 mins
 
-No activity tracked
+TypeScript     18 hrs 7 mins         ██████████▓░░░░░░░░░░░░░░   42.70 %
+Other          5 hrs 58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Bash           3 hrs 36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+JSON           3 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Markdown       2 hrs 55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+jsonc          1 hr 25 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+YAML           1 hr 5 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+TOML           39 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Zig            33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+C              28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript     27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Ezhil          27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+HTML           26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+shell script   25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+INI            25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Assembly       23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TSConfig       18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python         14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+ActionScript   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+CSS            12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
