@@ -24,23 +24,23 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2026 - To: 06 May 2026
+From: 07 April 2026 - To: 07 May 2026
 
-Total Time: 47 hrs 30 mins
+Total Time: 47 hrs 36 mins
 
-TypeScript     18 hrs 51 mins        ██████████░░░░░░░░░░░░░░░   39.76 %
-Markdown       8 hrs 8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Other          3 hrs 36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-JSON           3 hrs 7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Bash           3 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-YAML           1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-jsonc          1 hr 10 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-TSConfig       1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TypeScript     18 hrs 54 mins        ██████████░░░░░░░░░░░░░░░   39.79 %
+Markdown       8 hrs 13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Other          3 hrs 36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JSON           3 hrs 6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Bash           3 hrs 1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+YAML           1 hr 17 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+jsonc          1 hr 10 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+TSConfig       1 hr 6 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ActionScript   55 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 Zig            41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Ezhil          34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Ezhil          34 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 HTML           30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-TOML           29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+TOML           29 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 Objective-C    28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 CSS            28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Python         27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
