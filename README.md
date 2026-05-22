@@ -24,25 +24,25 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 19 May 2026
+From: 21 April 2026 - To: 21 May 2026
 
 Total Time: 27 hrs 22 mins
 
-TypeScript     11 hrs 9 mins         ██████████▒░░░░░░░░░░░░░░   40.75 %
-Markdown       6 hrs 8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-JSON           1 hr 59 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Bash           1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-ActionScript   53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+TypeScript     11 hrs 14 mins        ██████████▒░░░░░░░░░░░░░░   41.09 %
+Markdown       6 hrs 12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
+JSON           2 hrs                 █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Bash           1 hr 23 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+ActionScript   53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 TSConfig       48 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 jsonc          40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-Other          32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 TOML           28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-Objective-C    24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Objective-C    24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Ezhil          24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 GDScript3      23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Ezhil          23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 CSS            21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 Python         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-HTML           18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+HTML           19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other          17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 Rust           14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 YAML           11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Image (svg)    9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
