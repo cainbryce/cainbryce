@@ -24,21 +24,21 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 23 July 2026
+From: 24 June 2026 - To: 24 July 2026
 
-Total Time: 84 hrs 53 mins
+Total Time: 84 hrs 34 mins
 
-TypeScript          24 hrs                ███████░░░░░░░░░░░░░░░░░░   28.31 %
-Markdown            20 hrs 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-Other               6 hrs 49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Python              6 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Lua                 5 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-C                   3 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-JSON                3 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Bash                3 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JavaScript          1 hr 22 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Diff                1 hr 18 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Zig                 59 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+TypeScript          24 hrs                ███████░░░░░░░░░░░░░░░░░░   28.41 %
+Markdown            20 hrs 32 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32 %
+Other               6 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+Python              6 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Lua                 5 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+C                   3 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+JSON                3 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+Bash                3 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JavaScript          1 hr 18 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Diff                1 hr 18 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Zig                 59 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 Docker              52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 jsonc               42 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 TSConfig            38 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
