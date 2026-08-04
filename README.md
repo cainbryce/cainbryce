@@ -24,17 +24,17 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 01 August 2026
+From: 03 July 2026 - To: 02 August 2026
 
-Total Time: 95 hrs 32 mins
+Total Time: 95 hrs 36 mins
 
-TypeScript          32 hrs                ████████▒░░░░░░░░░░░░░░░░   33.53 %
-Markdown            25 hrs 3 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
+TypeScript          32 hrs                ████████▒░░░░░░░░░░░░░░░░   33.50 %
+Markdown            25 hrs 8 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
 Lua                 6 hrs 15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
 Other               5 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-C                   4 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+C                   4 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 Python              4 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-JSON                4 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+JSON                4 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 Bash                3 hrs 15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 Diff                1 hr 42 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 Docker              52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
