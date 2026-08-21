@@ -24,30 +24,30 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2026 - To: 18 August 2026
+From: 20 July 2026 - To: 19 August 2026
 
-Total Time: 100 hrs 23 mins
+Total Time: 100 hrs 24 mins
 
-TypeScript         29 hrs 43 mins        ███████▒░░░░░░░░░░░░░░░░░   29.61 %
-Markdown           19 hrs 42 mins        █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+TypeScript         31 hrs 58 mins        ████████░░░░░░░░░░░░░░░░░   31.84 %
+Markdown           18 hrs 51 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
 C                  7 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Other              6 hrs 49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Lua                6 hrs 33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Bash               5 hrs 20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-JSON               4 hrs 38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Python             3 hrs 35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Zig                3 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Lua                7 hrs 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other              6 hrs 42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+JSON               4 hrs 50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Bash               4 hrs 45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Zig                3 hrs 5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Python             2 hrs 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 C++                1 hr 30 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Diff               1 hr 26 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-TSConfig           1 hr 10 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Diff               1 hr 23 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+TSConfig           1 hr 10 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 jsonc              1 hr 8 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 INI                1 hr 2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-shell script       56 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Docker             52 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+shell script       56 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 CSS                50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 TOML               39 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Docker             37 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 Text               31 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Rust               31 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JavaScript         29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
