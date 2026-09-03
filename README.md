@@ -24,23 +24,23 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 31 August 2026
+From: 02 August 2026 - To: 01 September 2026
 
-Total Time: 132 hrs 38 mins
+Total Time: 132 hrs 33 mins
 
-TypeScript         39 hrs 22 mins        ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-Markdown           25 hrs 8 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-Zig                13 hrs 20 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Other              11 hrs 44 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
-JSON               7 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+TypeScript         39 hrs 22 mins        ███████▒░░░░░░░░░░░░░░░░░   29.71 %
+Markdown           25 hrs 7 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+Zig                13 hrs 20 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Other              11 hrs 44 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+JSON               7 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 Lua                7 hrs 30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Bash               7 hrs 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Bash               7 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 C                  4 hrs 43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 INI                1 hr 56 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 TSConfig           1 hr 53 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 Python             1 hr 48 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 TOML               1 hr 39 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-jsonc              1 hr 23 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+jsonc              1 hr 23 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 shell script       1 hr 19 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Diff               1 hr 2 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 C++                52 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
