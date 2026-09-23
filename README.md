@@ -24,30 +24,30 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 20 September 2026
+From: 22 August 2026 - To: 21 September 2026
 
-Total Time: 110 hrs 16 mins
+Total Time: 109 hrs 21 mins
 
-TypeScript         31 hrs 43 mins        ███████▒░░░░░░░░░░░░░░░░░   28.78 %
-Zig                14 hrs 58 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Markdown           13 hrs 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-Other              13 hrs 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
-JSON               6 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-Bash               6 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-INI                3 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Python             2 hrs 43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Lua                2 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-TOML               2 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-C                  1 hr 59 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-jsonc              1 hr 53 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-TSConfig           1 hr 49 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript         31 hrs 37 mins        ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+Zig                14 hrs 54 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Other              13 hrs 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Markdown           13 hrs 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+JSON               6 hrs 53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Bash               6 hrs 3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+INI                3 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Python             2 hrs 40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Lua                2 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TOML               2 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+C                  1 hr 59 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+jsonc              1 hr 53 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TSConfig           1 hr 49 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 Text               54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-C++                45 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+C++                45 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 shell script       36 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 Rust               30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 PowerShell         25 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 HTML               24 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript         16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript         16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
