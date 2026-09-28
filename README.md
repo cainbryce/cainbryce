@@ -24,14 +24,14 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 25 September 2026
+From: 27 August 2026 - To: 26 September 2026
 
-Total Time: 83 hrs 14 mins
+Total Time: 83 hrs 12 mins
 
-TypeScript         24 hrs 57 mins        ███████▒░░░░░░░░░░░░░░░░░   29.99 %
+TypeScript         24 hrs 57 mins        ███████▓░░░░░░░░░░░░░░░░░   30.00 %
 Markdown           11 hrs 17 mins        ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
 Zig                10 hrs 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Other              8 hrs 42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Other              8 hrs 40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
 JSON               5 hrs 21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 INI                3 hrs 7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 Bash               3 hrs 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
