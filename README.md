@@ -24,20 +24,20 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 28 October 2026
+From: 29 September 2026 - To: 29 October 2026
 
-Total Time: 25 hrs 25 mins
+Total Time: 24 hrs 57 mins
 
-TypeScript     16 hrs 6 mins         ████████████████░░░░░░░░░   63.35 %
-Markdown       2 hrs 51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-C              2 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Zig            1 hr 21 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Text           47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-C++            24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Python         24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Bash           16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Other          14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Rust           5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript     16 hrs 6 mins         ████████████████░░░░░░░░░   64.56 %
+Markdown       2 hrs 44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+C              2 hrs 38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Zig            1 hr 7 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Text           47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+C++            24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python         24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Bash           16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Other          14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Rust           5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 TSConfig       4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 JSON           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 XML            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
