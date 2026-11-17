@@ -1,16 +1,7 @@
 # Bryce Cain
+I use Arch btw.  
 
-Building tools and systems with Bun, TypeScript, and Linux.
-
-## About
-
-Developer focused on performant runtimes, Wayland tooling, and web infrastructure. I write mostly TypeScript on Bun, and spend too much time tweaking my Arch/Sway setup.
-
-- Arch Linux · Sway / Hyprland
-- [cainb.dev](https://cainb.dev)
-
-## Tech
-
+## Stuff I use/work with
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
